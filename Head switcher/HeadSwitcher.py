@@ -5,7 +5,7 @@ import time
 import threading
 
 
-bot = telebot.TeleBot("7431785626:AAE-W9Z45IZ8Ux9DFsJdqZ3jJvPdmnJgqwU")
+bot = telebot.TeleBot("7431")
 
 @bot.message_handler(commands=['start'])
 
